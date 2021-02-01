@@ -1,4 +1,5 @@
-### The K - " Bir Garip Dünya " Mobil Oyun (Devam etmekte)
+### The K - " Bir Garip Dünya " Mobil Oyun 
+### (Devam etmekte)
 #### Bulmaca ve denge temelli, "The K" mobil oyunumdan birkaç görsel. 
 #### (Görseller gölgelendirme, ışıklandırma ve materyal düzenlemeleri olmadan çekilmiştir.)
  
