@@ -1,7 +1,8 @@
-# The_K---Mobil-Oyun
+### The_K---Mobil-Oyun (Devam etmekte)
  Bulmaca ve denge temelli, "The K" mobil oyunumdan birkaç görsel. 
  (Görseller gölgelendirme, ışıklandırma ve materyal düzenlemeleri olmadan çekilmiştir.)
-(Devam etmekte)
+ 
+
 
 ![Örnek resim 1:](https://raw.githubusercontent.com/ertbaran/The_K---Mobil-Oyun/master/%C3%96rnek%20Resim%204.png)
 
