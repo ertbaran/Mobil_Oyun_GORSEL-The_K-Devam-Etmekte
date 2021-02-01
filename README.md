@@ -12,3 +12,5 @@
 ![Örnek resim 3:](https://raw.githubusercontent.com/ertbaran/The_K---Mobil-Oyun/master/%C3%96rnek%20Resim%202.jpeg)
 
 ![Örnek resim 4:](https://raw.githubusercontent.com/ertbaran/The_K---Mobil-Oyun/master/%C3%96rnek%20Resim%203.jpeg)
+
+![Örnek resim 5:](https://raw.githubusercontent.com/ertbaran/The_K---Mobil-Oyun/master/%C3%96rnek%20Resim%205.png)
