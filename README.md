@@ -2,9 +2,8 @@
 ## Bulmaca ve denge temelli, "The K" mobil oyunumdan birkaç görsel. Düzgün bir görüntüleme için indirebilirsiniz.
 (Devam etmekte)
 
-Örnek resim 1:
-https://raw.githubusercontent.com/ertbaran/The_K---Mobil-Oyun/master/%C3%96rnek%20Resim%201.jpeg
 
+![Örnek resim 1:](https://raw.githubusercontent.com/ertbaran/The_K---Mobil-Oyun/master/%C3%96rnek%20Resim%201.jpeg)
 Örnek resim 2:
 https://raw.githubusercontent.com/ertbaran/The_K---Mobil-Oyun/master/%C3%96rnek%20Resim%202.jpeg
 
